@@ -5,6 +5,7 @@
 **Author:** Dashane James  
 **Lab Environment:** [e.g. VMware Workstation | Kali Linux | Metasploitable 2]  
 **Purpose:** Detect, investigate, and document a simulated SSH brute force attack using Splunk, then document the full incident response lifecycle.
+
 **Status:** 🔵 Completed
 
 ---
