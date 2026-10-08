@@ -86,7 +86,6 @@ The attack succeeded because of two compounding failures: first, default credent
 3. Deploy real-time SIEM alerting — upgrade from Splunk Free (hourly scheduling) to a production SIEM with real-time alert capabilities. This attack succeeded in under one second — an hourly alert window means a breach could go undetected for up to 59 minutes. Real-time detection is not optional in a production SOC environment.
 
 
-**Findings:**
 
 
 🗺️ MITRE ATT&CK Mapping
